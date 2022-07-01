@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://app.daily.dev/uchaurasia"><img src="https://api.daily.dev/devcards/8a8e43ef08d84bd78630ecd4314e319f.png?r=vpu" width="400" alt="Upendra Chaurasia's Dev Card"/></a>
 
 <!--
 **chaurasiau/chaurasiau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
